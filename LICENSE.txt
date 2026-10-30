@@ -1,0 +1,40 @@
+rpclip - Licencia de uso / License
+Copyright (c) 2013-2026 R. Porcar. Todos los derechos reservados.
+
+ESPAÑOL
+
+rpclip es gratuito. Puedes:
+  - usarlo sin coste, en tantos equipos como quieras, para uso personal o profesional
+    (también en empresas);
+  - copiarlo y redistribuirlo, siempre que sea gratis, sin modificar y con este archivo.
+
+No puedes:
+  - venderlo, ni cobrar por él o por su distribución;
+  - modificar, descompilar o desensamblar el programa, salvo en lo que la ley lo permita;
+  - distribuirlo con otro nombre o como si fuera obra tuya.
+
+rpclip se ofrece "tal cual", sin garantías de ningún tipo. El autor no es responsable de
+ningún daño o pérdida de datos derivados de su uso. rpclip trabaja con tu portapapeles y
+puede enviar teclas y clics a otros programas: revisa los scripts antes de ejecutarlos.
+
+Los componentes de terceros que incluye se rigen por sus propias licencias
+(ver THIRD-PARTY-NOTICES.txt).
+
+ENGLISH
+
+rpclip is free. You may:
+  - use it at no cost, on as many computers as you like, for personal or professional
+    purposes (including at companies);
+  - copy and redistribute it, as long as it is free of charge, unmodified and includes this file.
+
+You may not:
+  - sell it, or charge for it or for its distribution;
+  - modify, decompile or disassemble the program, except where the law allows it;
+  - distribute it under another name or as your own work.
+
+rpclip is provided "as is", without warranty of any kind. The author is not liable for any
+damage or data loss arising from its use. rpclip works with your clipboard and can send keys
+and clicks to other programs: review scripts before running them.
+
+Third-party components included are governed by their own licenses
+(see THIRD-PARTY-NOTICES.txt).
